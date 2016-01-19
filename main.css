@@ -1,0 +1,55 @@
+/* Inserta tu CSS aqui */
+.contenedor{
+	width: 1000px;
+	height: 500px;
+	background: green;*/
+}
+.cancha{
+	width: 950px;
+	height: 450px;
+	border: 5px solid white;
+	position: absolute;
+	left: 25px;
+	top:25px;
+}
+#arco1{
+	width: 100px;
+	height: 180px;
+	border: 5px solid white;
+	position: absolute;
+	left: 6px;
+	top:25%;
+	margin-left: -8px;
+}
+#arco2{
+	width: 100px;
+	height: 180px;
+	border: 5px solid white;
+	position: absolute;
+	right: 6px;
+	top:25%;
+	margin-right: -8px;
+}
+#circulo{
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 5px solid white;
+	margin: auto;
+	margin-top: 110px;
+}
+#arco1 img{
+	position: absolute;
+	left: 90px;
+}
+#arco2 img{
+	position: absolute;
+	right: 100px;
+	bottom: 10px;
+}
+#circulo img{
+	position: absolute;
+	margin-left: 120px;
+	top: 50px;
+
+}
